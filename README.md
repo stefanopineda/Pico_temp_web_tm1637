@@ -3,8 +3,8 @@ Micropython script to read Thermocouple temperature, display on TM1637 7 segment
 
 Much of the code is taken from 
 https://projects.raspberrypi.org/en/projects/get-started-pico-w/5
-for setting up the hosted html page.
+for setting up the hosted html page,
 https://github.com/mcauser/micropython-tm1637
-for the tm1637 interface.
+for the tm1637 interface, and
 https://bytesnbits.co.uk/multi-thread-coding-on-the-raspberry-pi-pico-in-micropython/
 for multithreading.
